@@ -25,7 +25,9 @@ During this internship, I aim to:
 I will be involved in the following projects during my internship:
 
 1. **Project 1:** Calculator
-2. **Project 2:** 
+2. **Project 2:** Ecommerce Website
+3. **Project 3:** Todo List 
+4. **Project 4:** Connect Four Game
 
 I will be updating this README with project-specific details, progress updates, and any other relevant information as I work on each project.
 
